@@ -1,5 +1,5 @@
 
-# Quiz NLW Expert | Rocketseat
+# Quiz
 
 Este é um projeto de Quiz desenvolvido utilizando HTML, CSS e JavaScript. Ele permite a criação de um quiz, alterando as perguntas através de uma variavel pelo Javascript.
 
