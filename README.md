@@ -6,7 +6,7 @@ Este é um projeto de Quiz desenvolvido utilizando HTML, CSS e JavaScript. Ele p
 
 ## Imagem do projeto
 
-![Imagem do projeto.](https://github.com/iuricontarelli/nlw-quiz/blob/main/src/Quiz.PNG)
+![Imagem do projeto.](https://github.com/iuricontarelli/nlw-quiz/blob/main/src/screencapture.PNG)
 
 
 ## Feedback
